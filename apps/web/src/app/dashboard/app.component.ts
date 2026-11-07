@@ -1,0 +1,1 @@
+Adjust the component to handle touch events and ensure it slides smoothly. Update CSS and HTML accordingly.
